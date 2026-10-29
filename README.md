@@ -10,12 +10,10 @@ Cargo, salario, dias obrigatorios
 Clinte:
 gastos
 
-
-🔹 Exercícios de APROPRIAÇÃO
-Identifique no código:
+3.Identifique:
 classe: modelo que define caracteristicas como comportamentos
 objeto: instancia de uma classe
 atributos: sao as variaveis declaradas
 métodos: funçao declarado dentro da classe
 Explique com suas palavras o que é $this.
-$this mostra qual objeto vai ser utilizado quando foi chamado
+Minhas palavras: ->$this mostra qual objeto vai ser utilizado quando foi chamado
